@@ -1,1 +1,1 @@
-# Learn Fusion POS
+# Fusion POS
